@@ -1,8 +1,5 @@
 # Nextfolio 🚀 — AI-Powered Portfolio Generator
-
 Build stunning portfolios in minutes with a modern UI and dynamic preview system.
-
----
 
 ## ✨ Current Features
 
